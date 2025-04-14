@@ -1,0 +1,26 @@
+.highlight {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  background-color: pink;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  text-decoration-thickness: 400;
+  padding:50px 0px;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 20px;
+  background-color:antiquewhite;
+  border-radius: 20px ;
+
+}
